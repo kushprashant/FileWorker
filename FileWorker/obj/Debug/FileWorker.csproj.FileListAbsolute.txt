@@ -1,0 +1,168 @@
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\FileWorker.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\FileWorker.pdb
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\Antlr3.Runtime.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\DotNetOpenAuth.Core.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\Microsoft.Data.Edm.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\Microsoft.Data.OData.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\Newtonsoft.Json.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\System.Spatial.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\System.Web.Helpers.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\System.Web.Http.OData.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\System.Web.Mvc.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\System.Web.Optimization.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\System.Web.Razor.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\System.Web.WebPages.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\System.Web.WebPages.Razor.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\WebGrease.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\WebMatrix.Data.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\WebMatrix.WebData.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\Mono.Math.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\Newtonsoft.Json.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\System.Web.Helpers.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\System.Web.Mvc.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\System.Web.Razor.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\System.Web.WebPages.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\System.Web.WebPages.Razor.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\WebMatrix.Data.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\WebMatrix.WebData.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\DotNetOpenAuth.Core.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\System.Web.Http.OData.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\Microsoft.Data.Edm.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\Microsoft.Data.OData.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\System.Spatial.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\Mono.Math.xml
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\de\System.Spatial.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\es\System.Spatial.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\fr\System.Spatial.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\it\System.Spatial.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\ja\System.Spatial.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\ko\System.Spatial.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\ru\System.Spatial.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\obj\Debug\FileWorker.dll
+C:\Users\RajeshDev\Desktop\FileWorker\FileWorker\obj\Debug\FileWorker.pdb
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\FileWorker.dll.config
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\FileWorker.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\FileWorker.pdb
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\Antlr3.Runtime.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\DotNetOpenAuth.AspNet.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\DotNetOpenAuth.Core.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\DotNetOpenAuth.OAuth.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\DotNetOpenAuth.OpenId.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\Microsoft.Data.Edm.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\Microsoft.Data.OData.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\Microsoft.Web.Infrastructure.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\Newtonsoft.Json.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Net.Http.Formatting.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Spatial.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Web.Helpers.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Web.Http.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Web.Http.OData.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Web.Http.WebHost.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Web.Mvc.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Web.Optimization.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Web.Razor.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Web.WebPages.Deployment.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Web.WebPages.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Web.WebPages.Razor.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\WebGrease.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\WebMatrix.Data.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\WebMatrix.WebData.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\Org.Mentalis.Security.Cryptography.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\Mono.Math.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\Newtonsoft.Json.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Net.Http.Formatting.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Web.Helpers.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Web.Http.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Web.Http.WebHost.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Web.Mvc.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Web.Razor.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Web.WebPages.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Web.WebPages.Deployment.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Web.WebPages.Razor.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\WebMatrix.Data.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\WebMatrix.WebData.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\DotNetOpenAuth.AspNet.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\DotNetOpenAuth.Core.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\DotNetOpenAuth.OAuth.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\DotNetOpenAuth.OpenId.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Web.Http.OData.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\Microsoft.Data.Edm.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\Microsoft.Data.OData.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\System.Spatial.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\Org.Mentalis.Security.Cryptography.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\Mono.Math.xml
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\de\Microsoft.Data.Edm.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\es\Microsoft.Data.Edm.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\it\Microsoft.Data.Edm.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\de\Microsoft.Data.OData.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\es\Microsoft.Data.OData.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\fr\Microsoft.Data.OData.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\it\Microsoft.Data.OData.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\ja\Microsoft.Data.OData.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\ko\Microsoft.Data.OData.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\ru\Microsoft.Data.OData.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\de\System.Spatial.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\es\System.Spatial.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\fr\System.Spatial.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\it\System.Spatial.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\ja\System.Spatial.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\ko\System.Spatial.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\ru\System.Spatial.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\zh-Hans\System.Spatial.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\bin\zh-Hant\System.Spatial.resources.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\obj\Debug\FileWorker.csprojResolveAssemblyReference.cache
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\obj\Debug\FileWorker.dll
+E:\PRASHANT\Projects\Hiren Parmar\FileWorker\FileWorker\FileWorker\obj\Debug\FileWorker.pdb

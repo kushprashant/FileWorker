@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<div>
+    <form id="frm" runat="server">
+        <div>
+            <input type="file" id="fileUpload" value="" />
+            <button type="button" id="btnUpload">Upload</button>
+            <button type="button" id="btnDownload">Download</button>
+        </div>
+    </form>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        // Note: Change the port number(localhost:60418) according to yours (if  modified).
+
+        // Upload Button Click
+        $("#btnUpload").click(function () {
+            var data = new FormData();
+            fileData = document.getElementById("fileUpload").files[0];
+
+            $.ajax({
+                url: 'http://localhost:53333/FileService.svc/UploadFile?fileName=' + fileData.name, // Dynamically uploads the files which is chosen.
+                type: 'POST',
+                data: fileData, // This would pass the file object with data
+                cache: false,
+                processData: false, // Don't process the files
+                contentType: "application/octet-stream", // Setting content type to "application/octet-stream" as jQuery will tell the server its not query string. 
+               // contentType: "application/json; charset=utf-8",
+                success: function (data) {
+                    var data = JSON.parse(data)
+                    alert('Code..' + data.code + '   ' +data.message);
+                },
+                error: function (data) {
+                    alert('Error Occurred');
+                }
+            });
+        });
+
+        // Download Button Click
+        $("#btnDownload").click(function () {
+            window.location.href = "http://localhost:53333/FileService.svc/DownloadFile/ReadMe.txt"; // Make it dynamic according to your requirement.
+        });
+    });
+</script>
